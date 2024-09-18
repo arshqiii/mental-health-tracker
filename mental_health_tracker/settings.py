@@ -30,6 +30,7 @@ DEBUG = not PRODUCTION
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "muhammad-radhiya-mentalhealthtracker.pbp.cs.ui.ac.id"]
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
